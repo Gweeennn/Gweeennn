@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C programming and python
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me 
-  Gmail: gwenparent309@gmail.com 
+  Gmail: gwenparent@tutanota.com
   Discord: Gwen#6643
 
 <!---
