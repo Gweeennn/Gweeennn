@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gweeennn
-- 👀 I’m interested in Operating Systems and Desktop Environments/Graphical Displays
-- 🌱 I’m currently learning C programming and python
+- 👀 I’m interested in idk it changes frequently
+- 🌱 I’m currently learning Databases
 - 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
 - 📫 How to reach me 
   Gmail: gwenparent@tutanota.com
-  Discord: Gwen#6643
+  Discord: gwf_hegel
 
 <!---
 Gweeennn/Gweeennn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
