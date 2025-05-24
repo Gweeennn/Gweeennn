@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gweeennn
-- 👀 I’m interested in idk it changes frequently
-- 🌱 I’m currently learning Databases
+- 👀 I’m interested in Mathematics and Chinese history
+- 🌱 I’m currently learning Discrete Mathematics
 - 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
 - 📫 How to reach me 
-  Gmail: gwenparent@tutanota.com
+  Gmail: gwenparent309@gmail.com
   Discord: gwf_hegel
 
 <!---
